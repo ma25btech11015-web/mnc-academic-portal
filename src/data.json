@@ -1,0 +1,274 @@
+{
+  "SETTINGS": [
+    {
+      "Key": "batch",
+      "Value": "2025-2029"
+    },
+    {
+      "Key": "department",
+      "Value": "Mathematics and Computing"
+    },
+    {
+      "Key": "institute",
+      "Value": "Indian Institute of Technology, Hyderabad"
+    },
+    {
+      "Key": "active_semester",
+      "Value": "3rd Semester"
+    },
+    {
+      "Key": "academic_year",
+      "Value": "2026-2027"
+    }
+  ],
+  "TIMETABLE": [
+    {
+      "Semester": "3rd Semester",
+      "Day": "Monday",
+      "Start Time": "09:00",
+      "End Time": "10:00",
+      "Course ID": "MA2233",
+      "Course Name": "DSA Lab",
+      "Venue": "MA220",
+      "Status": "Scheduled"
+    },
+    {
+      "Semester": "3rd Semester",
+      "Day": "Monday",
+      "Start Time": "12:00",
+      "End Time": "13:00",
+      "Course ID": "MA2150",
+      "Course Name": "Metric Spaces",
+      "Venue": "LHC4",
+      "Status": "Scheduled"
+    },
+    {
+      "Semester": "3rd Semester",
+      "Day": "Monday",
+      "Start Time": "14:30",
+      "End Time": "16:00",
+      "Course ID": "ID2230",
+      "Course Name": "DSA",
+      "Venue": "LHC5",
+      "Status": "Scheduled"
+    },
+    {
+      "Semester": "3rd Semester",
+      "Day": "Monday",
+      "Start Time": "16:00",
+      "End Time": "17:30",
+      "Course ID": "CS3510",
+      "Course Name": "OS - 1",
+      "Venue": "LHC4",
+      "Status": "Scheduled"
+    },
+    {
+      "Semester": "3rd Semester",
+      "Day": "Tuesday",
+      "Start Time": "09:00",
+      "End Time": "10:00",
+      "Course ID": "MA2150",
+      "Course Name": "Metric Spaces",
+      "Venue": "LHC4",
+      "Status": "Scheduled"
+    },
+    {
+      "Semester": "3rd Semester",
+      "Day": "Tuesday",
+      "Start Time": "10:00",
+      "End Time": "11:00",
+      "Course ID": "EE1206",
+      "Course Name": "LSSP",
+      "Venue": "LHC4",
+      "Status": "Scheduled"
+    },
+    {
+      "Semester": "3rd Semester",
+      "Day": "Tuesday",
+      "Start Time": "11:00",
+      "End Time": "12:00",
+      "Course ID": "MA2550",
+      "Course Name": "Linear Algebra",
+      "Venue": "LHC3",
+      "Status": "Scheduled"
+    },
+    {
+      "Semester": "3rd Semester",
+      "Day": "Tuesday",
+      "Start Time": "16:00",
+      "End Time": "17:30",
+      "Course ID": "MA2540",
+      "Course Name": "Probability Theory",
+      "Venue": "MA01",
+      "Status": "Scheduled"
+    },
+    {
+      "Semester": "3rd Semester",
+      "Day": "Wednesday",
+      "Start Time": "11:00",
+      "End Time": "12:00",
+      "Course ID": "MA2233",
+      "Course Name": "DSA Lab",
+      "Venue": "MA220",
+      "Status": "Scheduled"
+    },
+    {
+      "Semester": "3rd Semester",
+      "Day": "Wednesday",
+      "Start Time": "14:30",
+      "End Time": "16:00",
+      "Course ID": "MA2550",
+      "Course Name": "Linear Algebra",
+      "Venue": "LHC3",
+      "Status": "Scheduled"
+    },
+    {
+      "Semester": "3rd Semester",
+      "Day": "Thursday",
+      "Start Time": "10:00",
+      "End Time": "11:00",
+      "Course ID": "MA2233",
+      "Course Name": "DSA Lab",
+      "Venue": "MA220",
+      "Status": "Scheduled"
+    },
+    {
+      "Semester": "3rd Semester",
+      "Day": "Thursday",
+      "Start Time": "12:00",
+      "End Time": "13:00",
+      "Course ID": "EE1206",
+      "Course Name": "LSSP",
+      "Venue": "LHC4",
+      "Status": "Scheduled"
+    },
+    {
+      "Semester": "3rd Semester",
+      "Day": "Thursday",
+      "Start Time": "14:30",
+      "End Time": "16:00",
+      "Course ID": "CS3510",
+      "Course Name": "OS - 1",
+      "Venue": "LHC4",
+      "Status": "Scheduled"
+    },
+    {
+      "Semester": "3rd Semester",
+      "Day": "Thursday",
+      "Start Time": "16:00",
+      "End Time": "17:30",
+      "Course ID": "ID2230",
+      "Course Name": "DSA",
+      "Venue": "LHC5",
+      "Status": "Scheduled"
+    },
+    {
+      "Semester": "3rd Semester",
+      "Day": "Friday",
+      "Start Time": "09:00",
+      "End Time": "10:00",
+      "Course ID": "EE1206",
+      "Course Name": "LSSP",
+      "Venue": "LHC4",
+      "Status": "Scheduled"
+    },
+    {
+      "Semester": "3rd Semester",
+      "Day": "Friday",
+      "Start Time": "10:00",
+      "End Time": "11:00",
+      "Course ID": "MA2550",
+      "Course Name": "Linear Algebra",
+      "Venue": "LHC3",
+      "Status": "Scheduled"
+    },
+    {
+      "Semester": "3rd Semester",
+      "Day": "Friday",
+      "Start Time": "11:00",
+      "End Time": "12:00",
+      "Course ID": "MA2150",
+      "Course Name": "Metric Spaces",
+      "Venue": "LHC4",
+      "Status": "Scheduled"
+    },
+    {
+      "Semester": "3rd Semester",
+      "Day": "Friday",
+      "Start Time": "14:30",
+      "End Time": "16:00",
+      "Course ID": "MA2540",
+      "Course Name": "Probability Theory",
+      "Venue": "MA01",
+      "Status": "Scheduled"
+    }
+  ],
+  "COURSES": [
+    {
+      "Course ID": "MA2233",
+      "Course Name": "DSA Lab",
+      "Credits": 3,
+      "Course Type": "Lab",
+      "Default Venue": "MA220",
+      "Instructor Email": "vikas.sk@math.iith.ac.in",
+      "Active": "TRUE"
+    },
+    {
+      "Course ID": "MA2150",
+      "Course Name": "Metric Spaces",
+      "Credits": 1,
+      "Course Type": "Theory",
+      "Default Venue": "LHC4",
+      "Active": "TRUE"
+    },
+    {
+      "Course ID": "ID2230",
+      "Course Name": "DSA",
+      "Credits": 3,
+      "Course Type": "Theory",
+      "Default Venue": "LHC5",
+      "Active": "TRUE"
+    },
+    {
+      "Course ID": "CS3510",
+      "Course Name": "OS - 1",
+      "Credits": 1,
+      "Course Type": "Theory",
+      "Default Venue": "LHC4",
+      "Active": "TRUE"
+    },
+    {
+      "Course ID": "EE1206",
+      "Course Name": "LSSP",
+      "Credits": 3,
+      "Course Type": "Theory",
+      "Default Venue": "LHC4",
+      "Instructor Email": "sundar.vanka@ee.iith.ac.in",
+      "Active": "TRUE"
+    },
+    {
+      "Course ID": "MA2550",
+      "Course Name": "Linear Algebra",
+      "Credits": 3,
+      "Course Type": "Theory",
+      "Default Venue": "LHC3",
+      "Instructor Email": "aiyappan@math.iith.ac.in",
+      "Active": "TRUE"
+    },
+    {
+      "Course ID": "MA2540",
+      "Course Name": "Probability Theory",
+      "Credits": 4,
+      "Course Type": "Theory",
+      "Default Venue": "MA01",
+      "Instructor Email": "arun.majum@math.iith.ac.in",
+      "Active": "TRUE"
+    }
+  ],
+  "ASSESSMENTS": [],
+  "RESOURCES": [],
+  "ACADEMIC_EVENTS": [],
+  "REMINDER_SETTINGS": [],
+  "ANNOUNCEMENTS": [],
+  "OTHER_ANNOUNCEMENTS": []
+}
