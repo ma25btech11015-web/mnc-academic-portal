@@ -266,7 +266,19 @@
     }
   ],
   "ASSESSMENTS": [],
-  "RESOURCES": [],
+  "RESOURCES": [
+    {
+      "Course ID": "EE1206",
+      "Resource ID": "EE1206-RES-001",
+      "Resource Type": "Course Resources",
+      "Title": "LSSP Course Resources",
+      "Date": "",
+      "Description": "LSSP course materials and resources",
+      "Google Drive URL": "https://drive.google.com/drive/folders/182MqETRCwgTpt8senTcIvH6NVbr3JfgP",
+      "Visibility": "Public",
+      "Tags": "LSSP"
+    }
+  ],
   "ACADEMIC_EVENTS": [],
   "REMINDER_SETTINGS": [],
   "ANNOUNCEMENTS": [],
